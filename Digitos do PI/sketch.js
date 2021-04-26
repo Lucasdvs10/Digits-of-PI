@@ -6,7 +6,7 @@ function setup() {
   background(55);
 
   bloco1 = new Bloco(100,0,1,50); //posi x, vel, massa, lado
-  bloco2 = new Bloco(300,-2/passos_no_tempo,100,100);
+  bloco2 = new Bloco(300,-2/passos_no_tempo,1,100);
 
   }
 
